@@ -35,18 +35,6 @@
 ## 🐳 联系作者&交流群
 开发者：**[红烧猎人](https://blog.enianteam.com/u/sun/content/11)**
 
-新建的QQ交流群，进不去可以点上方连接联系作者
-
-<img src="./doc/images/qq_group_qr.jpg"  height="350" />
-
-## 🍵 打赏
-
-> 开源开发不易，如果觉得我的项目有帮到你，欢迎给我[打赏](./doc/donate.md)或者请我喝个奶茶☕（如果可以备注下您的昵称或者名字），你的支持就是我的动力，谢谢。
-
-<a href="https://www.paypal.me/hslrs">
-<img height="60" src="./doc/images/donate/paypal.png" target="_blank"></img> 
-</a>
-
 
 |   |   |
 | ------------ | ------------ |
